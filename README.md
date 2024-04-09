@@ -1,17 +1,18 @@
 ### Hi there 👋
 
-<!--
-**YonathanTAbebe/yonathanTAbebe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👋 Hey there, I'm Yoni! Welcome to my GitHub profile.
 
-- 🔭 I’m currently working on git hub  
-- 🌱 I’m currently learning in 
-Addis Ababa Science and Technology University
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 I'm a coder, specializing in wep and app devlopment. My journey in tech began school computation.
+
+💡 I'm passionate about computers and fascinated by web devlopment. In my free time, I enjoy chess and play football.
+
+💻 Currently, I'm studing on in AASTU, where I'm in both back and front end. I'm always excited about collaborating on projects.
+
+🌱 I'm a lifelong learner and thrive on exploring new technologies like node.js. I believe in the power of continuous growth and improvement.
+
+📫 Feel free to reach out to me via yonathanabebe12asd@gmail.com or connect with me on https://t.me/yoni181 . I'm always open to interesting conversations and collaborations!
+
+🔗 Check out my repositories below to see what I've been up to! Don't hesitate to star or fork any projects that catch your eye. Your feedback and contributions are highly appreciated.
+
+
