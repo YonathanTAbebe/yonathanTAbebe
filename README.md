@@ -7,7 +7,7 @@
 
 💡 I'm passionate about computers and fascinated by web devlopment. In my free time, I enjoy chess and play football.
 
-💻 Currently, I'm studing on in AASTU, where I'm in both back and front end. I'm always excited about collaborating on projects.
+💻 Currently, I'm studing  in AASTU, where I'm in both back and front end. I'm always excited about collaborating on projects.
 
 🌱 I'm a lifelong learner and thrive on exploring new technologies like node.js. I believe in the power of continuous growth and improvement.
 
