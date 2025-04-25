@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-👋 Hey there, I'm Yoni! Welcome to my GitHub profile.
+👋 Hey there, I'm Yonathan Welcome to my GitHub profile.
 
 🚀 I'm a coder, specializing in wep and app devlopment. My journey in tech began school computation.
 
